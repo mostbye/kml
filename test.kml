@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns= "http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>HYDROARC 183/23(42)</name>
+    <Placemark>
+      <name>HYDROARC 183/23(42)</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+           <coordinates>
+           35.24722222222222, 72.15, 0
+33.31666666666667, 71.91666666666667, 0
+35.68333333333333, 70.10555555555555, 0
+37.14722222222222, 70.26666666666667, 0
+               </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>
